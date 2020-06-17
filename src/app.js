@@ -37,7 +37,7 @@ app.put("/repositories/:id", (request, response) => {
     (repository) => repository.id === id
   );
 
-  if (!repositoryIndex) {
+  if (repositoryIndex < 0) {
     return response.status(400).json({ error: "Repository not found." });
   }
 
