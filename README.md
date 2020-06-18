@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
- _"Ao infinito e além :rocket:"_
+ "Ao infinito e além :rocket:"
 </div>
 
 ## Sobre 🤓
