@@ -148,6 +148,8 @@ O restante vou deixar por sua curiosidade kkkkk 😝
 
 
 &nbsp;
-## Gostou? 🥳🚀
+<h1 align="center">
+ Gostou? 🥳🚀
+</h1>
 
 Se gostou avalie com uma linda 🌟, dessa forma você irá me incentivar a publicar mais projetos cada vez melhores.
