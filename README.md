@@ -1,7 +1,7 @@
-# node-concepts-challenge
-Desafio 02 - Conceitos básicos de NodeJS aplicado no GoStack 12 da Rocketseat
+![Logo GoStack 12](https://i.imgur.com/UuhPCqe.png)
 
-# Untitled
+# Conceitos do NodeJS 
+_"Ao infinito e além :rocket:"_
 
 ## Sobre 🤓
 
@@ -17,7 +17,7 @@ Temos os métodos:
 
     Será responsável por trazer uma lista de repositórios.
 
-- **POST**: ****http://localhost:3333/repositories ****
+- **POST**: http://localhost:3333/repositories
 
     Essa rota server para criação de um repositório de um repositório e para isso precisamos passar no corpo da requisição algumas informações, segue o exemplo:
 
@@ -32,7 +32,7 @@ Temos os métodos:
     }
     ```
 
-- **PUT**: ****http://localhost:3333/repositories/**:id**
+- **PUT**: http://localhost:3333/repositories/**:id**
 
     Essa rota server para atualização de um repositório de um repositório, o **:id** deve ser substituído pelo identificador de algum repositório e por fim passamos, no corpo da requisição, as informações que queremos atualizar, segue o exemplo:
 
@@ -47,7 +47,7 @@ Temos os métodos:
     }
     ```
 
-- **DELETE**: ****http://localhost:3333/repositories/**:id**
+- **DELETE**: http://localhost:3333/repositories/**:id**
 
     Essa rota server para exclusão de um repositório de um repositório, o **:id** deve ser substituído pelo identificador de algum repositório.
 
