@@ -32,7 +32,7 @@ Temos os métodos:
     }
     ```
 
-- **PUT**: http://localhost:3333/repositories/**:id**
+- **PUT**: http://localhost:3333/repositories/:id
 
     Essa rota server para atualização de um repositório de um repositório, o **:id** deve ser substituído pelo identificador de algum repositório e por fim passamos, no corpo da requisição, as informações que queremos atualizar, segue o exemplo:
 
@@ -47,11 +47,11 @@ Temos os métodos:
     }
     ```
 
-- **DELETE**: http://localhost:3333/repositories/**:id**
+- **DELETE**: http://localhost:3333/repositories/:id
 
     Essa rota server para exclusão de um repositório de um repositório, o **:id** deve ser substituído pelo identificador de algum repositório.
 
-- **POST**: ****http://localhost:3333/repositories/**:id**/like
+- **POST**: http://localhost:3333/repositories/:id/like
 
     Com essa rota você pode basicamente dá um like e um determinado repositório, então toda vez que ela é chamada e aumentado o número de likes.
 
@@ -80,7 +80,13 @@ Temos os métodos:
 - [ ]  [Yarn](https://yarnpkg.com/)
 - [ ]  [Insomnia](https://insomnia.rest/download/) ou qualquer outra ferramente para teste de API Rest
 
-**Observação:** Vou assumir que você esteja usando Linux 😛. 
+&nbsp;
+
+
+**Observação: Vou assumir que você esteja usando Linux 😛. **
+
+
+&nbsp;
 
 No seu terminal faça um clone do projeto
 
