@@ -83,7 +83,7 @@ Temos os métodos:
 &nbsp;
 
 
-**Observação: Vou assumir que você esteja usando Linux 😛. **
+___Observação: Vou assumir que você esteja usando Linux 😛.___
 
 
 &nbsp;
@@ -108,22 +108,34 @@ yarn dev
 
 E caso tenha um retorno igual a esse:
 
-[https://imgur.com/dotS1tY](https://imgur.com/dotS1tY)
+![https://imgur.com/dotS1tY](https://i.imgur.com/dotS1tY.png)
 
+
+
+&nbsp;
 **PRONTO** !!! 🚀💥 A API já está funcionando!!!
 
+
+&nbsp;
 Podemos as rotas usando o Insomnia, ou a ferramente que você escolheu, para fazer os teste, olha um print do meu Insomnia 😻.
 
 - Criando um repositório:
 
-[https://imgur.com/6Zgzq6o](https://imgur.com/6Zgzq6o)
+![Insomnia print](https://i.imgur.com/6Zgzq6o.png)
 
 - Buscando os repositórios:
 
-[https://imgur.com/RE1dzhS](https://imgur.com/RE1dzhS)
+![Insomnia print](https://i.imgur.com/RE1dzhS.png)
 
+
+
+
+&nbsp;
 O restante vou deixar por sua curiosidade kkkkk 😝
 
+
+
+&nbsp;
 ## Gostou? 🥳🚀
 
 Se gostou avalie com uma linda 🌟, dessa forma você irá me incentivar a publicar mais projetos cada vez melhores.
