@@ -152,6 +152,6 @@ O restante vou deixar por sua curiosidade kkkkk 😝
  Gostou? 🥳🚀
 </h2>
 
-<div align"center">
+<div align="center">
  Se gostou avalie com uma linda 🌟, dessa forma você irá me incentivar a publicar mais projetos cada vez melhores.
 </div>
