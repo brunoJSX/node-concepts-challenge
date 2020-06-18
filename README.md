@@ -129,7 +129,7 @@ E caso tenha um retorno igual a esse:
 
 
 
-Podemos as rotas usando o Insomnia, ou a ferramente que você escolheu, para fazer os teste, olha um print do meu Insomnia 😻.
+Podemos as rotas usando o Insomnia, ou a ferramenta que você escolheu, para fazer os teste, olha um print do meu Insomnia 😻.
 
 - Criando um repositório:
 
